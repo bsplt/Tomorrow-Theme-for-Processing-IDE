@@ -1,6 +1,6 @@
 # Tomorrow Night Theme for Processing 3 IDE
 
-Processing 3 IDE ships with a light and blueish IDE. That's boring, isn't it? Simply replace the files `theme.txt` and `preferences.txt` and you'll be delighted by a more professional lookig IDE. The theme is based upon the [Tomorrow Night Theme](https://github.com/chriskempson/tomorrow-theme) by Chris Kempson.
+Processing 3 IDE ships with a light and blueish color theme. That's boring, isn't it? Simply replace the files `theme.txt` and `preferences.txt` and you'll be delighted by a more professional lookig IDE. The theme is based upon the [Tomorrow Night Theme](https://github.com/chriskempson/tomorrow-theme) by Chris Kempson.
 
 Tested in Processing 3.3
 
