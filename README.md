@@ -7,7 +7,7 @@ Tested in Processing 3.3
 ## This is how it will look
 ![Tomorrow Theme for Processing 3 IDE](https://raw.githubusercontent.com/bsplt/Tomorrow-Theme-for-Processing-IDE/master/screenshot.png)
 
-## INSTALLATION
+## Installation
 
 ### Windows:
 **preferences.txt**  
