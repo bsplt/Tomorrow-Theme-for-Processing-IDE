@@ -93,7 +93,7 @@ editor.linehighlight.color=#282a2e
 # highlight for the current line
 editor.linehighlight=true
 
-editor.caret.color = #282a2e
+editor.caret.color = #c5c8c6
 editor.selection.color = #373b41
 
 # area that's not in use by the text (replaced with tildes)
