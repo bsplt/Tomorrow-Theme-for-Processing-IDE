@@ -18,7 +18,7 @@ Replace the `theme.txt` located in `%HomeDrive%\processing64\processing-3.2.1\li
 
 ### Mac OS:
 **preferences.txt**  
-Replace the `preferences.txt` located in `TODO`.
+Replace the `preferences.txt` located in `~/Library/Processing/preferences.txt`.
 
 **theme.txt**  
 Replace the `theme.txt` located in `~/Applications/Processing.app/Contents/Java/lib`.
