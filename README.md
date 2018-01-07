@@ -2,7 +2,7 @@
 
 Processing 3 IDE ships with a light and blueish color theme. That's boring, isn't it? Simply replace the files `theme.txt` and `preferences.txt` and you'll be delighted by a more professional lookig IDE. The theme is based upon the [Tomorrow Night Theme](https://github.com/chriskempson/tomorrow-theme) by Chris Kempson.
 
-Tested in Processing 3.3
+Tested in Processing 3.3.6
 
 ## This is how it will look
 ![Tomorrow Theme for Processing 3 IDE](https://raw.githubusercontent.com/bsplt/Tomorrow-Theme-for-Processing-IDE/master/screenshot.png)
@@ -14,7 +14,7 @@ Tested in Processing 3.3
 Replace the `preferences.txt` located in `%UserProfile%\AppData\Roaming\Processing\`.
 
 **theme.txt**  
-Replace the `theme.txt` located in `%HomeDrive%\processing64\processing-3.2.1\lib\`.
+Replace the `theme.txt` located in `%HomeDrive%\processing64\processing-3.3.6\lib\` or however your installation path might be.
 
 ### Mac OS:
 **preferences.txt**  
